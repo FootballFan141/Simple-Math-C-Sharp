@@ -1,0 +1,6 @@
+D:\ TestCode.exe 280 90
+Call methods from MathLibrary.DLL:
+Addition: 280 + 90 = 370
+Multiplication: 280 * 90 = 25200
+Subtraction: 280 - 90 = 190
+Division: 280 / 90 = 3
